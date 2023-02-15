@@ -1,2 +1,3 @@
-# scan
-Stochastic C code analyzer
+# SCAn
+
+Statistical Code Analyzer
